@@ -52,9 +52,3 @@ for i = 1:taille-1 % Parcourir les sommets 2 à 2 pour trouver les arcs
         
     end
 end
-    
- 
-        
-        
-            
-     
